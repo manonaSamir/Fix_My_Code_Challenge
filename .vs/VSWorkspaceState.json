@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\0x00-challenge"
+    "\\0x01-challenge"
   ],
-  "SelectedNode": "\\0x00-challenge\\1-print_square.js",
+  "SelectedNode": "\\0x01-challenge\\square.py",
   "PreviewInSolutionExplorer": false
 }
