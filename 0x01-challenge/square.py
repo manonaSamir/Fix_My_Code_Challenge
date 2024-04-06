@@ -1,7 +1,9 @@
 #!/usr/bin/python3
+""" Module for square class"""
 
 
 class square():
+    """ Square class """
     width = 0
     height = 0
 
@@ -15,9 +17,11 @@ class square():
         return self.width * self.height
 
     def PermiterOfMySquare(self):
+        """ Perimeter of my square """
         return (self.width * 2) + (self.height * 2)
 
     def __str__(self):
+        """ Printable representation """
         return "{}/{}".format(self.width, self.height)
 
 
